@@ -1,0 +1,13 @@
+Projection     WAGNER VII
+Datum          WGS84
+Zunits         NO
+Units          METERS
+Xshift         0.000000
+Yshift         0.000000
+Parameters
+10 0 0.000 /* longitude of center of projection
+
+0.000 /* false easting (meters)
+
+0.000 /* false northing (meters)
+
