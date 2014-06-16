@@ -1,13 +1,1 @@
-Projection     WAGNER VII
-Datum          WGS84
-Zunits         NO
-Units          METERS
-Xshift         0.000000
-Yshift         0.000000
-Parameters
-10 0 0.000 /* longitude of center of projection
-
-0.000 /* false easting (meters)
-
-0.000 /* false northing (meters)
-
+PROJCS["unnamed",GEOGCS["WGS 84",DATUM["WGS_1984",SPHEROID["WGS84",6378137,298.257223563]],PRIMEM["10E",10],UNIT["degree",0.0174532925199433]],PROJECTION["Wagner_VII"],PARAMETER["false_easting",0],PARAMETER["false_northing",0]]
