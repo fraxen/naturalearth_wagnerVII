@@ -51,10 +51,10 @@ All the Natural Earth shapefiles were retrived from http://naturalearthdata.com 
 * _Repair Geometry_ run on all datasets
 * Each layer visually inspected for any inconsistencies
 * Reprojection issues manually edited in ArcGIS
-** Polygons close to the 170E line
-** Polygons around Antarctica
-** Clipped to the world bounding box when needed
-** Graticules manually added in, where missing (close to the edges)
+  * Polygons close to the 170E line
+  * Polygons around Antarctica
+  * Clipped to the world bounding box when needed
+  * Graticules manually added in, where missing (close to the edges)
 
 Finishing words
 ------
