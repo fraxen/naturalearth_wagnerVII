@@ -23,6 +23,10 @@ Source data - Natural Earth 2.0
 -----
 The data in this database is the vector datasets from the [Natural Earth dataset/collection](http://naturalearthdata.com). This collection features essential basemap data for small-scale maps, in multiple levels of detail resolutions (1:10m, 1:50m and 1:110m). The data includes coastlines, country boundaries, lakes and rivers and much more. Natural Earth is a collective effort, headed by Nathaniel Kelso and Tom Patterson, and the data has been released in the public domain.
 
+License
+----
+This collection of data is placed in the public domain, under the unlicense, please refer to [LICENSE.md](license.md) for more information. Please consider giving Hugo Ahlenius, Nordpil and the Natural Earth team credit and recognition as a data source.
+
 Notes
 -----
 This collection contains most of the data from Natural Earth 2.0, with the following exceptions/notes:
