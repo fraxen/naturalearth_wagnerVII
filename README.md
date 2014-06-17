@@ -25,7 +25,7 @@ The data in this database is the vector datasets from the [Natural Earth dataset
 
 License
 ----
-This collection of data is placed in the public domain, under the unlicense, please refer to [LICENSE.md](license.md) for more information. Please consider giving Hugo Ahlenius, Nordpil and the Natural Earth team credit and recognition as a data source.
+This collection of data is placed in the public domain, under the unlicense, please refer to [LICENSE.md](LICENSE.md) for more information. Please consider giving Hugo Ahlenius, Nordpil and the Natural Earth team credit and recognition as a data source.
 
 Notes
 -----
