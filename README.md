@@ -19,6 +19,10 @@ The projection file (ArcInfo style .prj) that Global Mapper generates is:
     0.000 /* false easting (meters)
     0.000 /* false northing (meters)
 
+Download
+-----
+To get access to the full database, [download the zip-archive of all the data (300 MB)](naturalearth_wagnervii.zip), or clone this repo using your favorite git tool. The full data is a download of about 300 MB
+
 Source data - Natural Earth 2.0
 -----
 The data in this database is the vector datasets from the [Natural Earth dataset/collection](http://naturalearthdata.com). This collection features essential basemap data for small-scale maps, in multiple levels of detail resolutions (1:10m, 1:50m and 1:110m). The data includes coastlines, country boundaries, lakes and rivers and much more. Natural Earth is a collective effort, headed by Nathaniel Kelso and Tom Patterson, and the data has been released in the public domain.
@@ -39,6 +43,7 @@ This collection contains most of the data from Natural Earth 2.0, with the follo
 
 These have been noted as issues in this repository and might get dealt with eventually. Feel free to fork and contribute!
 Also - the reprojection has been done using Global Mapper 11, there has been notes of slighly different results (offset data) when reprojection using other tools, e.g. proj4, ogr or Saga GIS. Be careful if you need to integrate data from other sources, and review any reprojection. The safest bet is to use Global Mapper when integrating this data.
+The _tools_ folder in this repository contains a few files/scripts that were used in preparing the data for publishing, and can safely be ignored/skipped!
 
 Process
 -----
