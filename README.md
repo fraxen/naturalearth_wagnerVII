@@ -21,7 +21,7 @@ The projection file (ArcInfo style .prj) that Global Mapper generates is:
 
 Download
 -----
-To get access to the full database, [download the zip-archive of all the data (300 MB)](https://github.com/fraxen/naturalearth_wagnerVII/archive/master.zip), or clone this repo using your favorite git tool. The full data is a download of about 300 MB
+To get access to the full database, [download the zip-archive of all the data (some 300 MB)](https://github.com/fraxen/naturalearth_wagnerVII/archive/master.zip), or clone this repo using your favorite git tool. If you are using just using the data, please ignore the 'tools' folder.
 
 Source data - Natural Earth 2.0
 -----
