@@ -21,7 +21,7 @@ The projection file (ArcInfo style .prj) that Global Mapper generates is:
 
 Download
 -----
-To get access to the full database, [download the zip-archive of all the data (300 MB)](archive/master.zip), or clone this repo using your favorite git tool. The full data is a download of about 300 MB
+To get access to the full database, [download the zip-archive of all the data (300 MB)](../archive/master.zip), or clone this repo using your favorite git tool. The full data is a download of about 300 MB
 
 Source data - Natural Earth 2.0
 -----
