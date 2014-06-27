@@ -1,5 +1,6 @@
 Natural Earth in Wagner VII projection
 ======================
+![Example map using the WagnerVII projection, basemap using the 110m data](example_110mbasemap.png "Example map using the WagnerVII projection, basemap using the 110m data")
 For preparing global thematic maps, the *Wagner VII projection, with 10E as the central meridian* (See [here](http://www.georeference.org/doc/wagner_vii.htm) and [here](http://www.mapthematics.com/ProjectionsList.php?Projection=188) for more information) represents a good solution. The projection is *equal-area* and has a decent trade-off in shape distortion. One problem with the projection is that it is not supported in some of the common desktop GIS packages, like ArcGIS and QGis, and when it is (like Saga GIS) data sometimes gets distorted in the view/reprojection process.
 By using 10E as the central meridian one avoids the problem of a far sliver of Russia being split up.
 The projection definition in WKT is:
