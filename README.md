@@ -23,7 +23,7 @@ The projection file (ArcInfo style .prj) that Global Mapper generates is:
 
 Download
 -----
-To get access to the full database, [download the zip-archive of all the data (some 300 MB)](https://github.com/fraxen/naturalearth_wagnerVII/archive/master.zip), or clone this repo using your favorite git tool. If you are using just using the data, please ignore the 'tools' folder.
+To get access to the full database, [download the latest of all the data (some 300 MB)](https://github.com/fraxen/naturalearth_wagnerVII/releases), or clone this repo using your favorite git tool. If you are using just using the data, please ignore the 'tools' folder.
 
 Source data - Natural Earth 2.0
 -----
@@ -41,7 +41,7 @@ This collection contains most of the data from Natural Earth 2.0, with the follo
 * Graticules for the 1:50m and 1:110m collection were skipped, used the graticules in the 1:10m folder
 * The bounding box is new
 * The shapefiles for map units in the ocean has a few polygons that needs to be corrected
-* The gdb (ESRI ArcGIS file geodatabase) data in Natural Earth 2.0 has not bee reprojected
+* The gdb (ESRI ArcGIS file geodatabase) data in Natural Earth 2.0 has not been reprojected
 
 These have been noted as issues in this repository and might get dealt with eventually. Feel free to fork and contribute!
 Also - the reprojection has been done using Global Mapper 11, there has been notes of slighly different results (offset data) when reprojection using other tools, e.g. proj4, ogr or Saga GIS. Be careful if you need to integrate data from other sources, and review any reprojection. The safest bet is to use Global Mapper when integrating this data.
