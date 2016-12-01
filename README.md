@@ -35,6 +35,8 @@ This collection of data is placed in the public domain, under the unlicense, ple
 
 Notes
 -----
+Please note that Natural Earth has been seen minor (and some major) revisions since assembling this database... I would still be of use as it is though.
+
 This collection contains most of the data from Natural Earth 2.0, with the following exceptions/notes:
 * The raster datasets has not yet been reprojected. This process is reasonably trivial (doesn't require much cleanup)
 * The bathymetry isobaths were skipped. Could also be added fairly easily, so far it is the polygons that has caused most trouble
